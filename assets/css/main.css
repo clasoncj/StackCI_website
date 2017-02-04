@@ -82,6 +82,19 @@ a:after {
 	padding-bottom: 15px;
 }
 
+.navbar-brand {
+    color: #999999;
+	font-weight: bolder;
+	font-size: 22px;
+	letter-spacing: 1px;
+}
+
+.navbar-brand i {
+    color: #428bca;
+	font-size: 22px;
+	letter-spacing: 1px;
+}
+
 .navbar-inverse {
 	background: #2d2d2d;
 	border-color: #2d2d2d;
