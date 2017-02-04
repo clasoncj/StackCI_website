@@ -17,3 +17,9 @@ $(function() {
         event.preventDefault();
     });
 });
+
+$(document).ready(function () {
+    $(window).on('scroll', function(){
+        $('.navbar-collapse').collapse('hide')
+    });
+});
