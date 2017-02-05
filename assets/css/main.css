@@ -314,6 +314,16 @@ a:after {
     color: #555;
 }
 
+.modal-button1 {
+    background-color: #428BCA;
+    border: none;
+    
+}
+
+.modal-button1:hover {
+    background-color: #7b7b7b;
+}
+
 .modal-footer {
 	background: #f2f2f2;
 	margin-top: 0px; 
