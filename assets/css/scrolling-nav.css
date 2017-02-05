@@ -36,17 +36,17 @@ of those sections to manage the look and feel of the site. */
 }
 
 .devops-section {
-    padding-top: 25px;
+    padding-top: 100px;
     background: #f8f8f8;
 }
 
 .appdev-section {
-    padding-top: 25px;
+    padding-top: 100px;
 
 }
 
 .about-section {
-    padding-top: 25px;
+    padding-top: 75px;
     background: #f8f8f8;
 
 }
