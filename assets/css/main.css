@@ -320,11 +320,9 @@ a:after {
     
 }
 
-.modal-button1:hover .modal-button1:active {
-    background-color: #7b7b7b;
-}
-
-.modal-button1:active {
+.modal-button1:hover,
+.modal-button1:focus,
+.modal-button1:active:focus {
     background-color: #7b7b7b;
 }
 
