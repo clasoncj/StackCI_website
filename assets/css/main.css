@@ -237,9 +237,11 @@ a:after {
 
 /* Footer Wrap */
 #f {
-	background: #2d2d2d;
+	color: #bdbdbd;
+	font-size: 25px;
+    background: #2d2d2d;
 	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-bottom: 0px;
 }
 
 #f i {
